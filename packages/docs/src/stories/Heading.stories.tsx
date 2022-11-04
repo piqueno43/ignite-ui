@@ -1,12 +1,11 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, Heading, HeadingProps } from '@ignite-ui/react'
+import { Box, Heading, HeadingProps } from '@ignite-ui-web/react'
 
 export default {
   title: 'Typography/Heading',
   component: Heading,
   args: {
     children: 'Custom title',
-
   },
   argTypes: {
     size: {
@@ -17,11 +16,7 @@ export default {
 
   decorators: [
     (Story) => {
-      return (
-        <Box>
-          {Story()}
-        </Box>
-      )
+      return <Box>{Story()}</Box>
     },
   ],
 } as Meta<HeadingProps>
