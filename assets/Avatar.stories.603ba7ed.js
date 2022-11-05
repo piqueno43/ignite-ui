@@ -1,0 +1,2 @@
+import{A as t}from"./index.c02fda75.js";import"./index.f41a7329.js";import"./iframe.3b0a9b9b.js";import"./index.cd735165.js";import"./jsx-runtime.ad95fcc9.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/piqueno43.png",alt:"Edivaldo Silva"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},l=["Primary","WithFallback"];export{c as Primary,e as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.603ba7ed.js.map
