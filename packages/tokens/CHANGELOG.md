@@ -1,5 +1,11 @@
 # @ignite-ui-web/tokens
 
+## 2.2.0
+
+### Minor Changes
+
+- Remove token color
+
 ## 2.1.0
 
 ### Minor Changes
